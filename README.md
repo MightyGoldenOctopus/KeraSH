@@ -41,7 +41,7 @@ KeraSH has several interesting features:
 - Expose a BLAS that allows you to manipulate matrix and 3D tensors with ZSH
 
 ## Internals of KeraSH
-You can get the slides of our KeraSH's lightning talk on [the LSE Website](https://lse.epita.fr/data/lt/2019-04-09/lt-2019-04-09-jean-adrien-ducastaing--audran-doublet--kerash.pdf)
+You can get the slides of our KeraSH's lightning talk on [the LSE Website](https://www.lse.epita.fr/data/lt/2019-04-09/lt-2019-04-09-jean-adrien-ducastaing--audran-doublet--kerash.pdf)
 
 ## Authors
 - Jean-Adrien Ducastaing <ducast_j@lse.epita.fr>
